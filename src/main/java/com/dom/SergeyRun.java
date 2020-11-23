@@ -66,8 +66,6 @@ public class SergeyRun {  // 1.    -------------------- ВЫБОР НУЖНОЙ 
         for (int i = 0; i < masT.length; i++) {  // проверка каждого элемента массива
             char[] p = masT[i].toCharArray();
             for (int i0 = 0; i0 < p.length; i0++) {
-                char ff = p[i0];
-                char dd = p[p.length - i0 - 1];
                 if (p[i0] != p[p.length - i0 - 1]) { // проверка каждой буквы слова эемента при встречном чтении
                     k2 = 0; // при несовпадении букв - обнул и выход из слова
                     break;
