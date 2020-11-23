@@ -1,4 +1,4 @@
-package com.dom;
+/*package com.dom;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -15,3 +15,5 @@ class SergeyRunTest {
         assertNotEquals(9, sr.add(3, 4));
     }
 }
+
+ */
