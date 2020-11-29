@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f4b7919-d192-41c4-9173-c2081195bbf1" name="Default Changelist" comment="3 функции: сумма , минимум, палиндромы определяет">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/unnamed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dom/SergeyRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dom/SergeyRun.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kWXiRisCHgUS1tE4MkzHkIGydT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Application.SergeyRun">
+    <configuration name="SergeyRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dom.SergeyRun" />
+      <module name="six" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="default" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SergeyRun" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f4b7919-d192-41c4-9173-c2081195bbf1" name="Default Changelist" comment="" />
+      <created>1605817448832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605817448832</updated>
+      <workItem from="1605817450055" duration="1326000" />
+      <workItem from="1605818819843" duration="3371000" />
+      <workItem from="1605998689688" duration="22788000" />
+      <workItem from="1606132337901" duration="18025000" />
+      <workItem from="1606231141960" duration="5900000" />
+      <workItem from="1606295906292" duration="5367000" />
+      <workItem from="1606383181677" duration="15034000" />
+      <workItem from="1606464850377" duration="13524000" />
+      <workItem from="1606484907991" duration="8452000" />
+      <workItem from="1606566763169" duration="12442000" />
+      <workItem from="1606646526369" duration="2251000" />
+    </task>
+    <task id="LOCAL-00001" summary="Delete unused">
+      <created>1605819235766</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605819235766</updated>
+    </task>
+    <task id="LOCAL-00002" summary="дописаны методы 1 сумма, 2 минимум , 3 полиндром">
+      <created>1606150954782</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606150954782</updated>
+    </task>
+    <task id="LOCAL-00003" summary="дописаны методы 1 сумма, 2 минимум , 3 полиндром +">
+      <created>1606151257124</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606151257124</updated>
+    </task>
+    <task id="LOCAL-00004" summary="раскидываю все по классам и методам.&#10;не работает continueSR :(&#10;и че-т не хочет ставить public для кучи классов :(">
+      <created>1606492904639</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606492905272</updated>
+    </task>
+    <task id="LOCAL-00005" summary="3 функции: сумма , минимум, палиндромы определяет">
+      <created>1606607666886</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606607666886</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Delete unused" />
+    <MESSAGE value="дописаны методы 1 сумма, 2 минимум , 3 полиндром" />
+    <MESSAGE value="дописаны методы 1 сумма, 2 минимум , 3 полиндром +" />
+    <MESSAGE value="раскидываю все по классам и методам.&#10;не работает continueSR :(&#10;и че-т не хочет ставить public для кучи классов :(" />
+    <MESSAGE value="3 функции: сумма , минимум, палиндромы определяет" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 функции: сумма , минимум, палиндромы определяет" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1606606040833">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1606606040833" />
+    <state x="163" y="0" key="#Project_Structure" timestamp="1605818917593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1605818917593" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605818599013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1605818599013" />
+    <state x="413" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606647571836">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1606647571836" />
+    <state x="533" y="75" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1605821062265">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="533" y="75" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1605821062265" />
+    <state x="399" y="182" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1606599619241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="399" y="182" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1366.728@0.0.1366.728" timestamp="1606599619241" />
+    <state width="451" height="438" key="DebuggerActiveHint" timestamp="1606603664740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="451" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1606603664740" />
+    <state x="110" y="120" width="1146" height="488" key="DiffContextDialog" timestamp="1605817925920">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="110" y="120" width="1146" height="488" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1605817925920" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605818768808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605818768808" />
+    <state x="507" y="266" key="Github.CreateGistDialog" timestamp="1606231786231">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="507" y="266" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1606231786231" />
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom" timestamp="1606607540322">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606607540322" />
+    <state width="1323" height="163" key="GridCell.Tab.0.center" timestamp="1606607540306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606607540306" />
+    <state width="1323" height="163" key="GridCell.Tab.0.left" timestamp="1606607540306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606607540306" />
+    <state width="1323" height="163" key="GridCell.Tab.0.right" timestamp="1606607540306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606607540306" />
+    <state width="1323" height="265" key="GridCell.Tab.1.bottom" timestamp="1606603735202">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="265" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606603735202" />
+    <state width="1323" height="265" key="GridCell.Tab.1.center" timestamp="1606603735202">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="265" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1606603735202" />
+    <state width="1323" height="265" key="GridCell.Tab.1.left" timestamp="1606603735202">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="265" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1606603735202" />
+    <state width="1323" height="265" key="GridCell.Tab.1.right" timestamp="1606603735202">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="265" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1606603735202" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1606647707863">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606647707863" />
+    <state x="398" y="258" key="VCS.EditChangelistDialog" timestamp="1606490421102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="398" y="258" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1606490421102" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606607672167">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606607672167" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606604305219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1606604305219" />
+    <state x="454" y="186" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1606304760542">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="186" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1606304760542" />
+    <state x="-146" y="135" width="1339" height="271" key="dock-window-1" timestamp="1606231865049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-146" y="135" width="1339" height="271" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1606231865049" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606479775343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606479775343" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/six$SergeyRun.ic" NAME="SergeyRun Coverage Results" MODIFIED="1606602302352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.dom.*</FILTER>
+    </SUITE>
+  </component>
+</project>
