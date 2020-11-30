@@ -11,7 +11,7 @@ public class SergeyRun { // 1.
     }
 }
 
-class ContinueSR {
+class ContinueSR { //
     public boolean continueSR() {
         System.out.printf("%n  will you continue? (Y/N) %n");
         Scanner ScanOption = new Scanner(System.in); // input by keyboard

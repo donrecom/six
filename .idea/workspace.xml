@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="six:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
@@ -22,20 +27,27 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f4b7919-d192-41c4-9173-c2081195bbf1" name="Default Changelist" comment="3 функции: сумма , минимум, палиндромы определяет">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/unnamed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="0f4b7919-d192-41c4-9173-c2081195bbf1" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/six_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/unnamed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dom/SergeyRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dom/SergeyRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dom/Choice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dom/Choice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dom/ContinueSR.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dom/ContinueSR.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dom/InputMassive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dom/InputMassive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dom/Invitetion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dom/Invitetion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dom/Min.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dom/Min.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/dom/SergeyRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dom/SergeyRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dom/Summ.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dom/Summ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dom/palindrom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dom/palindrom.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +82,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -84,7 +96,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.SergeyRun">
+  <component name="RunManager" selected="JAR Application.java.jar">
     <configuration name="SergeyRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dom.SergeyRun" />
       <module name="six" />
@@ -97,6 +109,27 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/src/main/java/java.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="six.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/six_jar/six.jar" />
+      <method v="2" />
     </configuration>
     <configuration name="default" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
@@ -123,6 +156,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JAR Application.java.jar" />
+        <item itemvalue="JAR Application.six.jar" />
         <item itemvalue="Application.SergeyRun" />
       </list>
     </recent_temporary>
@@ -145,7 +180,9 @@
       <workItem from="1606464850377" duration="13524000" />
       <workItem from="1606484907991" duration="8452000" />
       <workItem from="1606566763169" duration="12442000" />
-      <workItem from="1606646526369" duration="2251000" />
+      <workItem from="1606646526369" duration="4313000" />
+      <workItem from="1606742544786" duration="7621000" />
+      <workItem from="1606758132648" duration="488000" />
     </task>
     <task id="LOCAL-00001" summary="Delete unused">
       <created>1605819235766</created>
@@ -182,7 +219,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606607666886</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="3 функции: сумма , минимум, палиндромы определяет +">
+      <created>1606655699621</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606655699621</updated>
+    </task>
+    <task id="LOCAL-00007" summary="3 функции: сумма , минимум, палиндромы определяет + gitignore">
+      <created>1606655759382</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606655759382</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +250,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -218,7 +269,9 @@
     <MESSAGE value="дописаны методы 1 сумма, 2 минимум , 3 полиндром +" />
     <MESSAGE value="раскидываю все по классам и методам.&#10;не работает continueSR :(&#10;и че-т не хочет ставить public для кучи классов :(" />
     <MESSAGE value="3 функции: сумма , минимум, палиндромы определяет" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 функции: сумма , минимум, палиндромы определяет" />
+    <MESSAGE value="3 функции: сумма , минимум, палиндромы определяет + gitignore" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1606606040833">
@@ -233,10 +286,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1605818599013" />
-    <state x="413" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606647571836">
+    <state x="413" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606755079918">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1606647571836" />
+    <state x="413" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1606755079918" />
     <state x="533" y="75" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1605821062265">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -253,30 +306,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="110" y="120" width="1146" height="488" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1605817925920" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605818768808">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606744979901">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605818768808" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606744979901" />
     <state x="507" y="266" key="Github.CreateGistDialog" timestamp="1606231786231">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="507" y="266" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1606231786231" />
-    <state width="1323" height="163" key="GridCell.Tab.0.bottom" timestamp="1606607540322">
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom" timestamp="1606757503560">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606607540322" />
-    <state width="1323" height="163" key="GridCell.Tab.0.center" timestamp="1606607540306">
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606757503560" />
+    <state width="1323" height="163" key="GridCell.Tab.0.center" timestamp="1606757503559">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606607540306" />
-    <state width="1323" height="163" key="GridCell.Tab.0.left" timestamp="1606607540306">
+    <state width="1323" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606757503559" />
+    <state width="1323" height="163" key="GridCell.Tab.0.left" timestamp="1606757503559">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606607540306" />
-    <state width="1323" height="163" key="GridCell.Tab.0.right" timestamp="1606607540306">
+    <state width="1323" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606757503559" />
+    <state width="1323" height="163" key="GridCell.Tab.0.right" timestamp="1606757503560">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606607540306" />
+    <state width="1323" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606757503560" />
     <state width="1323" height="265" key="GridCell.Tab.1.bottom" timestamp="1606603735202">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -293,18 +346,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="265" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1606603735202" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1606647707863">
+    <state x="129" y="55" key="MergeDialog" timestamp="1606757761338">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606647707863" />
+    <state x="129" y="55" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1606757761338" />
+    <state x="321" y="125" key="MultipleFileMergeDialog" timestamp="1606757761370">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1606757761370" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1606755124013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606755124013" />
     <state x="398" y="258" key="VCS.EditChangelistDialog" timestamp="1606490421102">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="398" y="258" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1606490421102" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606607672167">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606655819460">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606607672167" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606655819460" />
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606604305219">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -317,6 +378,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-146" y="135" width="1339" height="271" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1606231865049" />
+    <state x="65" y="25" key="new project wizard" timestamp="1606756052909">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="25" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1606756052909" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606479775343">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
